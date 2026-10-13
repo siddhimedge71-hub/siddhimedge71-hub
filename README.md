@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm a BCA Student 👋
 
-<!--
-**siddhimedge71-hub/siddhimedge71-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-Year BCA Student
+💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning HTML and CSS
+- 💡 Building simple web development projects
+- 🎯 Preparing for software development internships
+- 📚 Improving my coding and problem-solving skills
+
+Skills
+
+- HTML
+- CSS
+- Basic Computer Skills
+
+Projects
+
+- Personal Portfolio Website
+- Cake Shop Website
+
+Current Goals
+
+- Learn JavaScript
+- Build more web projects
+- Improve my GitHub and LinkedIn profiles
+- Prepare for IT internships
+
+✨ Learning step by step and building my future in tech!
